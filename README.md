@@ -11,6 +11,7 @@
     <a href="https://jobsquirrel.nz/help.html">Help</a> ·
     <a href="https://jobsquirrel.nz/contact.html">Send feedback</a>
   </p>
+  <p>The Chrome extension comes with the app. <a href="https://jobsquirrel.nz/#extension">How to add it</a></p>
   <p><sub>macOS 14 or later · Windows 10 or 11: if it warns you, click More info → Run anyway</sub></p>
   <img src="assets/board.png" alt="The JobSquirrel board: jobs as cards in columns from Interested to Offer, with the selected job's details at the right" width="900">
 </div>
