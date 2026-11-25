@@ -3,9 +3,9 @@
   <h1>Your personal all-in-one job hunting dashboard</h1>
   <p>Save any job ad with one click. Then see every application, deadline, interview and CV on one screen.</p>
   <p>
-    <a href="https://github.com/foxnz/landfern/releases/download/v0.1.2/JobSquirrel-0.1.2-universal.dmg"><strong>Download for Mac</strong></a> ·
-    <a href="https://github.com/foxnz/landfern/releases/download/v0.1.2/JobSquirrel-Setup-0.1.2.exe"><strong>Download for Windows</strong></a> ·
-    <a href="https://github.com/foxnz/landfern/releases/download/v0.1.2/jobsquirrel-extension-0.1.2.zip"><strong>Chrome extension</strong></a>
+    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel.dmg"><strong>Download for Mac</strong></a> ·
+    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-Setup.exe"><strong>Download for Windows</strong></a> ·
+    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-Chrome-extension.zip"><strong>Chrome extension</strong></a>
   </p>
   <p>
     <a href="https://jobsquirrel.nz">Website</a> ·
