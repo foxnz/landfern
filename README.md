@@ -3,11 +3,15 @@
   <h1>Your personal all-in-one job hunting dashboard</h1>
   <p>Save any job ad with one click. Then see every application, deadline, interview and CV on one screen.</p>
   <p>
-    <a href="https://github.com/foxnz/landfern/releases/latest"><strong>Download for Mac or Windows</strong></a> ·
+    <a href="https://github.com/foxnz/landfern/releases/download/v0.1.1/JobSquirrel-0.1.1-universal.dmg"><strong>Download for Mac</strong></a> ·
+    <a href="https://github.com/foxnz/landfern/releases/download/v0.1.1/JobSquirrel-Setup-0.1.1.exe"><strong>Download for Windows</strong></a>
+  </p>
+  <p>
     <a href="https://jobsquirrel.nz">Website</a> ·
     <a href="https://jobsquirrel.nz/help.html">Help</a> ·
     <a href="https://jobsquirrel.nz/contact.html">Send feedback</a>
   </p>
+  <p><sub>macOS 14 or later · Windows 10 or 11: if it warns you, click More info → Run anyway</sub></p>
   <img src="assets/board.png" alt="The JobSquirrel board: jobs as cards in columns from Interested to Offer, with the selected job's details at the right" width="900">
 </div>
 
