@@ -32,6 +32,8 @@
 
 Works with Seek, LinkedIn, Indeed, Trade Me Jobs, SEEK Grad, Prosple, Student Job Search and any other job page. Free, no account: your jobs stay in a folder on your computer.
 
+Need a cover letter? Right-click a job ▸ **Chat About This Job** opens the AI you already use, Claude Code or Codex, with a copy of the ad, your notes and your CV. JobSquirrel itself sends nothing.
+
 ⭐ If it helps your search, a star helps other job seekers find it.
 
 <sub>JobSquirrel is in beta. This page is for downloads; the app is not open source. Made-up jobs in the pictures.</sub>
