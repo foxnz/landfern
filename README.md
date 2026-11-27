@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/squirrel.svg" alt="A squirrel holding a job ad" width="110">
   <h1>Your personal all-in-one job hunting dashboard</h1>
-  <p>A free app that saves any job ad with one click, then keeps every application, deadline, interview and CV on one screen.</p>
+  <p>An app that saves the job ads you find, then keeps every application, deadline, interview and CV in one place. Free during the beta.</p>
   <p>JobSquirrel has two parts, and you need both:</p>
   <p><strong>1. The app</strong>, which keeps your job library:
     <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel.dmg"><strong>Mac</strong></a> ·
@@ -31,7 +31,7 @@
 
 ### Save with a click.
 
-Click the squirrel on a job ad. JobSquirrel fills in the title, company, pay, location and closing date, and keeps a full copy of the ad. Works with Seek, LinkedIn, Indeed, Trade Me Jobs, SEEK Grad, Prosple, Student Job Search and any other job page.
+Click the squirrel on a job ad. JobSquirrel fills in what the ad shows, such as the title, company, pay and location, and keeps a full copy of the ad. Works with Seek, LinkedIn, Indeed, Trade Me Jobs, SEEK Grad, Prosple and Student Job Search, and keeps a copy of other job pages too.
 
 <img src="assets/save-job.gif" alt="On a job ad in Chrome, a click on the squirrel saves the job, and Show in App opens it in JobSquirrel" width="900">
 
@@ -47,7 +47,7 @@ Drag a card from Applied to Interview. Board, Table or List; status, applied dat
 
 <img src="assets/organise.gif" alt="Dragging a card from the Applied column to the Interview column changes the job's status" width="900">
 
-### Find any job in seconds.
+### Find it again.
 
 Search by title, company, place, tag or folder, then narrow it down by status, location or site. Keep the filters you use often.
 
@@ -65,7 +65,7 @@ Right-click a job ▸ **Chat About This Job**. Claude Code or Codex opens inside
 
 <img src="assets/agent.png" alt="The Agent page for a job: Claude Code and Codex, both signed in, each with Open Chat" width="900">
 
-### Never read an ad twice.
+### Spot what you saved.
 
 On Seek's search results, the jobs you saved carry a label with their status. Turn it on in the extension's settings.
 
@@ -73,9 +73,9 @@ On Seek's search results, the jobs you saved carry a label with their status. Tu
 
 ### Also in the box
 
-Reminders before closing dates and follow-ups · folders, tags and saved filters · several libraries · **Export Backup…** to one zip · a Trash you can restore from · one-click updates · light and dark · keyboard shortcuts.
+Reminders before closing dates and follow-ups · folders, tags and saved filters · several libraries · **Export Backup…** puts a library in one zip · a Trash you can restore from · updates in the app · light and dark · keyboard shortcuts.
 
-**Rest easy.** Your job hunt is your business. It stays on your computer, as plain files in a folder you choose: we can’t see it, and we don’t want to. No account, no tracking; JobSquirrel only asks GitHub for new versions, and you can turn that off.
+**Rest easy.** Your job hunt is your business. It stays on your computer, as plain files in a folder you choose: we can’t see it, and we don’t want to. No account, no ads. Once a day the app asks GitHub for the newest version; GitHub counts these checks, and we see only the daily total. You can turn it off in Settings.
 
 ⭐ If it helps your search, a star helps other job seekers find it.
 
