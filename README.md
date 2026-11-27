@@ -2,18 +2,20 @@
   <img src="assets/squirrel.svg" alt="A squirrel holding a job ad" width="110">
   <h1>Your personal all-in-one job hunting dashboard</h1>
   <p>Save any job ad with one click. Then see every application, deadline, interview and CV on one screen.</p>
-  <p>
-    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel.dmg"><strong>Download for Mac</strong></a> ·
-    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-Setup.exe"><strong>Download for Windows</strong></a> ·
-    <strong>Linux:</strong> <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-amd64.deb"><strong>.deb</strong></a> or <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-x86_64.AppImage"><strong>AppImage</strong></a> ·
-    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-Chrome-extension.zip"><strong>Chrome extension</strong></a>
+  <p>JobSquirrel has two parts, and you need both:</p>
+  <p><strong>1. The app</strong>, which keeps your job library:
+    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel.dmg"><strong>Mac</strong></a> ·
+    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-Setup.exe"><strong>Windows</strong></a> ·
+    <strong>Linux</strong> <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-amd64.deb"><strong>.deb</strong></a> or <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-x86_64.AppImage"><strong>AppImage</strong></a>
+  </p>
+  <p><strong>2. The Chrome extension</strong>, which saves job ads into it:
+    <a href="https://github.com/foxnz/landfern/releases/latest/download/JobSquirrel-Chrome-extension.zip"><strong>Download</strong></a>, then drag it into Chrome (<a href="https://jobsquirrel.nz/#extension">how</a>)
   </p>
   <p>
     <a href="https://jobsquirrel.nz">Website</a> ·
     <a href="https://jobsquirrel.nz/help.html">Help</a> ·
     <a href="https://jobsquirrel.nz/contact.html">Send feedback</a>
   </p>
-  <p>Download the app and the extension, then drag the extension into Chrome. <a href="https://jobsquirrel.nz/#extension">How</a></p>
   <p><sub>macOS 14 or later · Windows 10 or 11: if it warns you, click More info → Run anyway · Linux, 64-bit Intel or AMD: the .deb for Ubuntu, Debian and Linux Mint, the AppImage for others, with Chrome from google.com/chrome (<a href="https://jobsquirrel.nz/help.html#install">which one?</a>)</sub></p>
   <img src="assets/board.png" alt="The JobSquirrel board: jobs as cards in columns from Interested to Offer, with the selected job's details at the right" width="900">
 </div>
